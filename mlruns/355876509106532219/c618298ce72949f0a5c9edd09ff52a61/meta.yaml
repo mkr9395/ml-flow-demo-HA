@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/c618298ce72949f0a5c9edd09ff52a61/artifacts
+end_time: 1731877304545
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: c618298ce72949f0a5c9edd09ff52a61
+run_name: dashing-crow-128
+run_uuid: c618298ce72949f0a5c9edd09ff52a61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877304078
+status: 3
+tags: []
+user_id: Asus

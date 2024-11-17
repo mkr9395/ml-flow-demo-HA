@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/ea863aa79f5c4af28de0eb6d53c7c989/artifacts
+end_time: 1731877761915
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: ea863aa79f5c4af28de0eb6d53c7c989
+run_name: adorable-hare-603
+run_uuid: ea863aa79f5c4af28de0eb6d53c7c989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877761531
+status: 3
+tags: []
+user_id: Asus

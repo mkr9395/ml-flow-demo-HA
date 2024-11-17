@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/c8497efcf8134303a22b84ac543d92c8/artifacts
+end_time: 1731877753396
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: c8497efcf8134303a22b84ac543d92c8
+run_name: salty-calf-310
+run_uuid: c8497efcf8134303a22b84ac543d92c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877753009
+status: 3
+tags: []
+user_id: Asus

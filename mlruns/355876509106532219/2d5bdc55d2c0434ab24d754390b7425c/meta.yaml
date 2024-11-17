@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/2d5bdc55d2c0434ab24d754390b7425c/artifacts
+end_time: 1731877207899
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 2d5bdc55d2c0434ab24d754390b7425c
+run_name: zealous-mouse-437
+run_uuid: 2d5bdc55d2c0434ab24d754390b7425c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877207291
+status: 3
+tags: []
+user_id: Asus

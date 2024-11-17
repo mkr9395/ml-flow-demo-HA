@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/504942185322132318
+creation_time: 1731877378550
+experiment_id: '504942185322132318'
+last_update_time: 1731877378550
+lifecycle_stage: active
+name: BestModel_after_hyperopt

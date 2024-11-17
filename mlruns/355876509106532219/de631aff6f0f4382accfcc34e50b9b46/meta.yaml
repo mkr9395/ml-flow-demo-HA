@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/de631aff6f0f4382accfcc34e50b9b46/artifacts
+end_time: 1731877228017
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: de631aff6f0f4382accfcc34e50b9b46
+run_name: gaudy-trout-108
+run_uuid: de631aff6f0f4382accfcc34e50b9b46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877227396
+status: 3
+tags: []
+user_id: Asus

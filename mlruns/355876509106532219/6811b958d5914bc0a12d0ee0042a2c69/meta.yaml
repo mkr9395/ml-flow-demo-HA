@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/6811b958d5914bc0a12d0ee0042a2c69/artifacts
+end_time: 1731877233273
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 6811b958d5914bc0a12d0ee0042a2c69
+run_name: judicious-kite-951
+run_uuid: 6811b958d5914bc0a12d0ee0042a2c69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877232882
+status: 3
+tags: []
+user_id: Asus

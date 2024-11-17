@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/62bb5e39a98544cb8e45abb2103350bc/artifacts
+end_time: 1731875724071
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 62bb5e39a98544cb8e45abb2103350bc
+run_name: charming-robin-582
+run_uuid: 62bb5e39a98544cb8e45abb2103350bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731875723465
+status: 3
+tags: []
+user_id: Asus

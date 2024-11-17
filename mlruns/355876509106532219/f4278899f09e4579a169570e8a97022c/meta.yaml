@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/f4278899f09e4579a169570e8a97022c/artifacts
+deleted_time: 1731877231780
+end_time: 1731877031219
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: deleted
+run_id: f4278899f09e4579a169570e8a97022c
+run_name: capable-gnat-737
+run_uuid: f4278899f09e4579a169570e8a97022c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877028043
+status: 4
+tags: []
+user_id: Asus

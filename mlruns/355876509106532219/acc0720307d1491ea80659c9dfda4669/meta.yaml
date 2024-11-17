@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/acc0720307d1491ea80659c9dfda4669/artifacts
+end_time: 1731875708493
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: acc0720307d1491ea80659c9dfda4669
+run_name: agreeable-lark-88
+run_uuid: acc0720307d1491ea80659c9dfda4669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731875707878
+status: 3
+tags: []
+user_id: Asus

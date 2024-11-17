@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/2a1b88b7be774f7aa10612e370c35c5e/artifacts
+end_time: 1731875722450
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 2a1b88b7be774f7aa10612e370c35c5e
+run_name: adorable-foal-600
+run_uuid: 2a1b88b7be774f7aa10612e370c35c5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731875721871
+status: 3
+tags: []
+user_id: Asus

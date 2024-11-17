@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/87db18b5fc3d4620a7885e7f6a818c27/artifacts
+end_time: 1731877294516
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 87db18b5fc3d4620a7885e7f6a818c27
+run_name: funny-worm-165
+run_uuid: 87db18b5fc3d4620a7885e7f6a818c27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877294187
+status: 3
+tags: []
+user_id: Asus

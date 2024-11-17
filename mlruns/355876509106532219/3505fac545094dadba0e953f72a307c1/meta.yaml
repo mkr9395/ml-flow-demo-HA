@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/3505fac545094dadba0e953f72a307c1/artifacts
+deleted_time: 1731877231783
+end_time: 1731876652251
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: deleted
+run_id: 3505fac545094dadba0e953f72a307c1
+run_name: bittersweet-moth-442
+run_uuid: 3505fac545094dadba0e953f72a307c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731876648914
+status: 4
+tags: []
+user_id: Asus

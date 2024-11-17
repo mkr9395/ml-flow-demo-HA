@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/00d5d02bcebe413aa1840e332ca8f367/artifacts
+deleted_time: 1731877250237
+end_time: 1731877031173
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: deleted
+run_id: 00d5d02bcebe413aa1840e332ca8f367
+run_name: respected-trout-704
+run_uuid: 00d5d02bcebe413aa1840e332ca8f367
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877028116
+status: 4
+tags: []
+user_id: Asus

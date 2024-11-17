@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/b7b734988f8340a69c692cdaca52e9d9/artifacts
+end_time: 1731875721827
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: b7b734988f8340a69c692cdaca52e9d9
+run_name: puzzled-rook-65
+run_uuid: b7b734988f8340a69c692cdaca52e9d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731875721230
+status: 3
+tags: []
+user_id: Asus

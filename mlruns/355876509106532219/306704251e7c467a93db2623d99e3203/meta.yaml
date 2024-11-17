@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/306704251e7c467a93db2623d99e3203/artifacts
+end_time: 1731877764235
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 306704251e7c467a93db2623d99e3203
+run_name: flawless-mink-410
+run_uuid: 306704251e7c467a93db2623d99e3203
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877763901
+status: 3
+tags: []
+user_id: Asus

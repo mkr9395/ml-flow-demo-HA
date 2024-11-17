@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/971ef1fd08014af599ef38b25a8bd58d/artifacts
+end_time: 1731875702819
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 971ef1fd08014af599ef38b25a8bd58d
+run_name: funny-smelt-356
+run_uuid: 971ef1fd08014af599ef38b25a8bd58d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731875702109
+status: 3
+tags: []
+user_id: Asus

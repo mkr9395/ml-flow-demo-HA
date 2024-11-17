@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/cd03b48ac2d84e97b82a1440f55e9e8d/artifacts
+end_time: 1731877759044
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: cd03b48ac2d84e97b82a1440f55e9e8d
+run_name: chill-eel-999
+run_uuid: cd03b48ac2d84e97b82a1440f55e9e8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877758568
+status: 3
+tags: []
+user_id: Asus

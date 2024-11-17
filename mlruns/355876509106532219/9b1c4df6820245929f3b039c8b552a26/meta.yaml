@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/9b1c4df6820245929f3b039c8b552a26/artifacts
+end_time: 1731875716127
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 9b1c4df6820245929f3b039c8b552a26
+run_name: grandiose-tern-770
+run_uuid: 9b1c4df6820245929f3b039c8b552a26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731875715638
+status: 3
+tags: []
+user_id: Asus

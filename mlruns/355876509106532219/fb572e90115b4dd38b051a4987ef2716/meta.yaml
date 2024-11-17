@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/fb572e90115b4dd38b051a4987ef2716/artifacts
+end_time: 1731877773095
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: fb572e90115b4dd38b051a4987ef2716
+run_name: nebulous-croc-563
+run_uuid: fb572e90115b4dd38b051a4987ef2716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877772449
+status: 3
+tags: []
+user_id: Asus

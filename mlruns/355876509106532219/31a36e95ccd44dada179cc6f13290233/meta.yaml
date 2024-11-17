@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/31a36e95ccd44dada179cc6f13290233/artifacts
+end_time: 1731877756398
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 31a36e95ccd44dada179cc6f13290233
+run_name: rare-yak-224
+run_uuid: 31a36e95ccd44dada179cc6f13290233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877755706
+status: 3
+tags: []
+user_id: Asus

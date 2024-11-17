@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/093d22bd51ef4affa5c9c5f799bc9ef0/artifacts
+end_time: 1731877770135
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 093d22bd51ef4affa5c9c5f799bc9ef0
+run_name: adaptable-owl-998
+run_uuid: 093d22bd51ef4affa5c9c5f799bc9ef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877769394
+status: 3
+tags: []
+user_id: Asus

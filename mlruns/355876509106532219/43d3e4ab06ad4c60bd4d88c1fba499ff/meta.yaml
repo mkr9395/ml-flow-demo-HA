@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/43d3e4ab06ad4c60bd4d88c1fba499ff/artifacts
+end_time: 1731877282290
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 43d3e4ab06ad4c60bd4d88c1fba499ff
+run_name: unleashed-duck-810
+run_uuid: 43d3e4ab06ad4c60bd4d88c1fba499ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877281891
+status: 3
+tags: []
+user_id: Asus

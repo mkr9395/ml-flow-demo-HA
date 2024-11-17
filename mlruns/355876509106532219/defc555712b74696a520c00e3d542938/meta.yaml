@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/defc555712b74696a520c00e3d542938/artifacts
+end_time: 1731875710852
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: defc555712b74696a520c00e3d542938
+run_name: monumental-lark-266
+run_uuid: defc555712b74696a520c00e3d542938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731875710609
+status: 3
+tags: []
+user_id: Asus

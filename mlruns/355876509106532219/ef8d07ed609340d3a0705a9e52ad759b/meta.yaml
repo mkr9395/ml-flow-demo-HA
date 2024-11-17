@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/ef8d07ed609340d3a0705a9e52ad759b/artifacts
+end_time: 1731875715076
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: ef8d07ed609340d3a0705a9e52ad759b
+run_name: sedate-ape-19
+run_uuid: ef8d07ed609340d3a0705a9e52ad759b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731875714777
+status: 3
+tags: []
+user_id: Asus

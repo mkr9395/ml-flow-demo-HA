@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/8475797a8b964a48b9bfd2e912804a25/artifacts
+end_time: 1731875720548
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 8475797a8b964a48b9bfd2e912804a25
+run_name: rumbling-finch-635
+run_uuid: 8475797a8b964a48b9bfd2e912804a25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731875719946
+status: 3
+tags: []
+user_id: Asus

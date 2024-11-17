@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/c2858d5029414eada97d754c59cfe68a/artifacts
+end_time: 1731875710120
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: c2858d5029414eada97d754c59cfe68a
+run_name: redolent-bird-582
+run_uuid: c2858d5029414eada97d754c59cfe68a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731875709736
+status: 3
+tags: []
+user_id: Asus

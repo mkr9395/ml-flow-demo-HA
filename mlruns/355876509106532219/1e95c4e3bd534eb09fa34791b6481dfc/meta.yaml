@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/1e95c4e3bd534eb09fa34791b6481dfc/artifacts
+end_time: 1731877209268
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 1e95c4e3bd534eb09fa34791b6481dfc
+run_name: casual-bear-62
+run_uuid: 1e95c4e3bd534eb09fa34791b6481dfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877208445
+status: 3
+tags: []
+user_id: Asus

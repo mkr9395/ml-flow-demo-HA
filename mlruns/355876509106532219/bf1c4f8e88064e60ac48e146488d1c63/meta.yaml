@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/bf1c4f8e88064e60ac48e146488d1c63/artifacts
+end_time: 1731875709697
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: bf1c4f8e88064e60ac48e146488d1c63
+run_name: bald-carp-961
+run_uuid: bf1c4f8e88064e60ac48e146488d1c63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731875709174
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/ed86bde469c141b4b8573c0e2d708f70/artifacts
+end_time: 1731877230377
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: ed86bde469c141b4b8573c0e2d708f70
+run_name: resilient-dove-306
+run_uuid: ed86bde469c141b4b8573c0e2d708f70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877229772
+status: 3
+tags: []
+user_id: Asus

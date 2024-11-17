@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/8da1205cfd394ad39304a2e8e7019e23/artifacts
+deleted_time: 1731877250234
+end_time: 1731876652221
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: deleted
+run_id: 8da1205cfd394ad39304a2e8e7019e23
+run_name: wistful-bear-537
+run_uuid: 8da1205cfd394ad39304a2e8e7019e23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731876648993
+status: 4
+tags: []
+user_id: Asus

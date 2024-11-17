@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/db6aecd8c3ab4875a263e84b9e529fdb/artifacts
+end_time: 1731877755033
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: db6aecd8c3ab4875a263e84b9e529fdb
+run_name: exultant-hound-786
+run_uuid: db6aecd8c3ab4875a263e84b9e529fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877754729
+status: 3
+tags: []
+user_id: Asus

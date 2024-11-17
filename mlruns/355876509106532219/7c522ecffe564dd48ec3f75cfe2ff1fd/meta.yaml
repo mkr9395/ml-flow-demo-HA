@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/7c522ecffe564dd48ec3f75cfe2ff1fd/artifacts
+end_time: 1731875714738
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 7c522ecffe564dd48ec3f75cfe2ff1fd
+run_name: dashing-kite-244
+run_uuid: 7c522ecffe564dd48ec3f75cfe2ff1fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731875714215
+status: 3
+tags: []
+user_id: Asus

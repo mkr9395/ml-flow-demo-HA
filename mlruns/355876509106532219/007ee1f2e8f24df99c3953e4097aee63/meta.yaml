@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/007ee1f2e8f24df99c3953e4097aee63/artifacts
+end_time: 1731877766546
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 007ee1f2e8f24df99c3953e4097aee63
+run_name: painted-ox-590
+run_uuid: 007ee1f2e8f24df99c3953e4097aee63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731877766020
+status: 3
+tags: []
+user_id: Asus

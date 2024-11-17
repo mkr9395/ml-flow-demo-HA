@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/a4ebdcb42f084eea9c531c5b20e9d1ea/artifacts
+end_time: 1731875727849
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: a4ebdcb42f084eea9c531c5b20e9d1ea
+run_name: unleashed-crab-820
+run_uuid: a4ebdcb42f084eea9c531c5b20e9d1ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731875727243
+status: 3
+tags: []
+user_id: Asus
