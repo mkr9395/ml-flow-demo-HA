@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/396e8f66c6734ddd86feff81b9a3b683/artifacts
+end_time: 1731865215236
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 396e8f66c6734ddd86feff81b9a3b683
+run_name: beautiful-seal-219
+run_uuid: 396e8f66c6734ddd86feff81b9a3b683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731865205752
+status: 3
+tags: []
+user_id: Asus

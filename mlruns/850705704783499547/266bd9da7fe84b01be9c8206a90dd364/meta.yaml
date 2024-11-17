@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/850705704783499547/266bd9da7fe84b01be9c8206a90dd364/artifacts
+end_time: 1731861739130
+entry_point_name: ''
+experiment_id: '850705704783499547'
+lifecycle_stage: active
+run_id: 266bd9da7fe84b01be9c8206a90dd364
+run_name: mysterious-crow-388
+run_uuid: 266bd9da7fe84b01be9c8206a90dd364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731861719058
+status: 3
+tags: []
+user_id: Asus

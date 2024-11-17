@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/850705704783499547/a30efed4f42d4e3285c85487ad2fcbfa/artifacts
+end_time: 1731841703561
+entry_point_name: ''
+experiment_id: '850705704783499547'
+lifecycle_stage: active
+run_id: a30efed4f42d4e3285c85487ad2fcbfa
+run_name: blushing-snail-278
+run_uuid: a30efed4f42d4e3285c85487ad2fcbfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731841691829
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/850705704783499547/8326f8d520de4468ba8a9018a6297d57/artifacts
+end_time: 1731841535680
+entry_point_name: ''
+experiment_id: '850705704783499547'
+lifecycle_stage: active
+run_id: 8326f8d520de4468ba8a9018a6297d57
+run_name: rumbling-fish-904
+run_uuid: 8326f8d520de4468ba8a9018a6297d57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731841521436
+status: 3
+tags: []
+user_id: Asus

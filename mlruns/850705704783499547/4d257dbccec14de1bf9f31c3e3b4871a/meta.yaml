@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/850705704783499547/4d257dbccec14de1bf9f31c3e3b4871a/artifacts
+end_time: 1731861988627
+entry_point_name: ''
+experiment_id: '850705704783499547'
+lifecycle_stage: active
+run_id: 4d257dbccec14de1bf9f31c3e3b4871a
+run_name: handsome-finch-766
+run_uuid: 4d257dbccec14de1bf9f31c3e3b4871a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731861969716
+status: 3
+tags: []
+user_id: Asus

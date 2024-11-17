@@ -1,0 +1,1 @@
+RandomForestClassifier(max_depth=6, n_estimators=160, n_jobs=-1)

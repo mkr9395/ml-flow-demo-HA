@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/76c8f2abfeb64b2c94beda8708bf32f2/artifacts
+end_time: 1731865164132
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 76c8f2abfeb64b2c94beda8708bf32f2
+run_name: marvelous-horse-92
+run_uuid: 76c8f2abfeb64b2c94beda8708bf32f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731865152552
+status: 3
+tags: []
+user_id: Asus

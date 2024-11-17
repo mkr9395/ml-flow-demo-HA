@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1731860984338
+current_stage: None
+description: ''
+last_updated_timestamp: 1731860984338
+name: best_model_grid_search1
+run_id: c7c7537660c9414c8d46c5426a187eed
+run_link: ''
+source: mlflow-artifacts:/850705704783499547/c7c7537660c9414c8d46c5426a187eed/artifacts/best_model_gs
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/850705704783499547/c7c7537660c9414c8d46c5426a187eed/artifacts/best_model_gs
+user_id: null
+version: 1

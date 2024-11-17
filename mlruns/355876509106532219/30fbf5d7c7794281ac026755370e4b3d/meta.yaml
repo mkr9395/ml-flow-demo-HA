@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/30fbf5d7c7794281ac026755370e4b3d/artifacts
+end_time: 1731864982833
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 30fbf5d7c7794281ac026755370e4b3d
+run_name: grandiose-roo-111
+run_uuid: 30fbf5d7c7794281ac026755370e4b3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731864971439
+status: 3
+tags: []
+user_id: Asus

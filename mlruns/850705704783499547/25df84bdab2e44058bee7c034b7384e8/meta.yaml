@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/850705704783499547/25df84bdab2e44058bee7c034b7384e8/artifacts
+end_time: 1731861988627
+entry_point_name: ''
+experiment_id: '850705704783499547'
+lifecycle_stage: active
+run_id: 25df84bdab2e44058bee7c034b7384e8
+run_name: rare-deer-859
+run_uuid: 25df84bdab2e44058bee7c034b7384e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731861969716
+status: 3
+tags: []
+user_id: Asus

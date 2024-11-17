@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/cab0c1ef89304f979377061554a993ea/artifacts
+deleted_time: 1731865085329
+end_time: 1731864344482
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: deleted
+run_id: cab0c1ef89304f979377061554a993ea
+run_name: rebellious-cub-242
+run_uuid: cab0c1ef89304f979377061554a993ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731864344428
+status: 4
+tags: []
+user_id: Asus

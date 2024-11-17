@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/bbf5617b98aa40edb5a1607025ed4089/artifacts
+deleted_time: 1731865085333
+end_time: 1731864317815
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: deleted
+run_id: bbf5617b98aa40edb5a1607025ed4089
+run_name: sneaky-grub-819
+run_uuid: bbf5617b98aa40edb5a1607025ed4089
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731864317742
+status: 4
+tags: []
+user_id: Asus

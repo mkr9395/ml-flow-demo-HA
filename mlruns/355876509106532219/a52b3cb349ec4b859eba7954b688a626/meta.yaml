@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/a52b3cb349ec4b859eba7954b688a626/artifacts
+end_time: 1731865152354
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: a52b3cb349ec4b859eba7954b688a626
+run_name: treasured-lynx-259
+run_uuid: a52b3cb349ec4b859eba7954b688a626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731865141552
+status: 3
+tags: []
+user_id: Asus

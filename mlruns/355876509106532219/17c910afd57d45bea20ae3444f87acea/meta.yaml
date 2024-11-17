@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/17c910afd57d45bea20ae3444f87acea/artifacts
+end_time: 1731864811591
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 17c910afd57d45bea20ae3444f87acea
+run_name: valuable-whale-244
+run_uuid: 17c910afd57d45bea20ae3444f87acea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731864795999
+status: 3
+tags: []
+user_id: Asus

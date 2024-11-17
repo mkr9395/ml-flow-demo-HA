@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/e5ad132754384dc78c79d94de5a11959/artifacts
+end_time: 1731864956422
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: e5ad132754384dc78c79d94de5a11959
+run_name: lyrical-crane-919
+run_uuid: e5ad132754384dc78c79d94de5a11959
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731864940028
+status: 3
+tags: []
+user_id: Asus

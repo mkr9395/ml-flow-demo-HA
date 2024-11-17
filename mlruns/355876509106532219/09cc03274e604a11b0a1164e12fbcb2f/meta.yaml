@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/09cc03274e604a11b0a1164e12fbcb2f/artifacts
+end_time: 1731864939827
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 09cc03274e604a11b0a1164e12fbcb2f
+run_name: traveling-pug-631
+run_uuid: 09cc03274e604a11b0a1164e12fbcb2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731864923749
+status: 3
+tags: []
+user_id: Asus

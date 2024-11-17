@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/4e79ce9fc65340dc80025cda11752ff3/artifacts
+end_time: 1731864923522
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 4e79ce9fc65340dc80025cda11752ff3
+run_name: casual-lark-871
+run_uuid: 4e79ce9fc65340dc80025cda11752ff3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731864909288
+status: 3
+tags: []
+user_id: Asus

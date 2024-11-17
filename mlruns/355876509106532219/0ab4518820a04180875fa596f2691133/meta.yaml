@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/0ab4518820a04180875fa596f2691133/artifacts
+end_time: 1731864564485
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 0ab4518820a04180875fa596f2691133
+run_name: merciful-ox-258
+run_uuid: 0ab4518820a04180875fa596f2691133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731864555773
+status: 3
+tags: []
+user_id: Asus

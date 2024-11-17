@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/850705704783499547/42cc78a9c6d040688b007a0c9167fa0b/artifacts
+end_time: 1731841535680
+entry_point_name: ''
+experiment_id: '850705704783499547'
+lifecycle_stage: active
+run_id: 42cc78a9c6d040688b007a0c9167fa0b
+run_name: caring-wolf-813
+run_uuid: 42cc78a9c6d040688b007a0c9167fa0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731841521436
+status: 3
+tags: []
+user_id: Asus
