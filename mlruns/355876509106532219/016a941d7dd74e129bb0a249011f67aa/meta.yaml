@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/016a941d7dd74e129bb0a249011f67aa/artifacts
+end_time: 1731938786285
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 016a941d7dd74e129bb0a249011f67aa
+run_name: resilient-fly-305
+run_uuid: 016a941d7dd74e129bb0a249011f67aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938785624
+status: 3
+tags: []
+user_id: Asus

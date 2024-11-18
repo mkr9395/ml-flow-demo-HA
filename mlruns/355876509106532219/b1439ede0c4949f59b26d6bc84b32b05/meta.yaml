@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/b1439ede0c4949f59b26d6bc84b32b05/artifacts
+end_time: 1731938411904
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: b1439ede0c4949f59b26d6bc84b32b05
+run_name: enchanting-mink-946
+run_uuid: b1439ede0c4949f59b26d6bc84b32b05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938411227
+status: 3
+tags: []
+user_id: Asus

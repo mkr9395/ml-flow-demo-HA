@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/7fe21db37b4e4eecbc5c6c2509a19361/artifacts
+end_time: 1731938774065
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 7fe21db37b4e4eecbc5c6c2509a19361
+run_name: welcoming-sheep-30
+run_uuid: 7fe21db37b4e4eecbc5c6c2509a19361
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938773502
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/a7b516454c5347698a5a3c1147d5dc37/artifacts
+end_time: 1731938430460
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: a7b516454c5347698a5a3c1147d5dc37
+run_name: secretive-shoat-254
+run_uuid: a7b516454c5347698a5a3c1147d5dc37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938429879
+status: 3
+tags: []
+user_id: Asus

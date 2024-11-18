@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/504942185322132318/94214aaecf6f40358c6ae8e43cdde61c/artifacts
+deleted_time: 1731878846324
+end_time: 1731878793633
+entry_point_name: ''
+experiment_id: '504942185322132318'
+lifecycle_stage: deleted
+run_id: 94214aaecf6f40358c6ae8e43cdde61c
+run_name: skillful-skunk-699
+run_uuid: 94214aaecf6f40358c6ae8e43cdde61c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731878789839
+status: 4
+tags: []
+user_id: Asus

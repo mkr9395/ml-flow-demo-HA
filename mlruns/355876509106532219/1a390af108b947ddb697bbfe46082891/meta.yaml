@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/1a390af108b947ddb697bbfe46082891/artifacts
+end_time: 1731938410444
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 1a390af108b947ddb697bbfe46082891
+run_name: clumsy-crab-522
+run_uuid: 1a390af108b947ddb697bbfe46082891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938409750
+status: 3
+tags: []
+user_id: Asus

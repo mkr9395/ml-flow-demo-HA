@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/5582d502b03e40788d8fc22fa3dc0cd8/artifacts
+end_time: 1731878772596
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 5582d502b03e40788d8fc22fa3dc0cd8
+run_name: bright-shark-792
+run_uuid: 5582d502b03e40788d8fc22fa3dc0cd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731878772128
+status: 3
+tags: []
+user_id: Asus

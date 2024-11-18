@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/498768052f0046148ce2f79e2562839b/artifacts
+end_time: 1731878772087
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 498768052f0046148ce2f79e2562839b
+run_name: burly-ram-643
+run_uuid: 498768052f0046148ce2f79e2562839b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731878771772
+status: 3
+tags: []
+user_id: Asus

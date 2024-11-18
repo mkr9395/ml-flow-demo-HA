@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/2c323c53eaa34ec3bb9080b2a04a36c3/artifacts
+end_time: 1731938417120
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 2c323c53eaa34ec3bb9080b2a04a36c3
+run_name: calm-bat-941
+run_uuid: 2c323c53eaa34ec3bb9080b2a04a36c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938416436
+status: 3
+tags: []
+user_id: Asus

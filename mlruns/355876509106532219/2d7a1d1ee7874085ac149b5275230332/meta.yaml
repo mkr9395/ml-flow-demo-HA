@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/2d7a1d1ee7874085ac149b5275230332/artifacts
+end_time: 1731938414456
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 2d7a1d1ee7874085ac149b5275230332
+run_name: valuable-hare-324
+run_uuid: 2d7a1d1ee7874085ac149b5275230332
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938413792
+status: 3
+tags: []
+user_id: Asus

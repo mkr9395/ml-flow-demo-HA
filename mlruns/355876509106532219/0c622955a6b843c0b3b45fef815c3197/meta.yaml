@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/0c622955a6b843c0b3b45fef815c3197/artifacts
+end_time: 1731878770606
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 0c622955a6b843c0b3b45fef815c3197
+run_name: caring-hawk-955
+run_uuid: 0c622955a6b843c0b3b45fef815c3197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731878770091
+status: 3
+tags: []
+user_id: Asus

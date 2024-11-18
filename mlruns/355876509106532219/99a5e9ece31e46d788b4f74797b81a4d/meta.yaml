@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/99a5e9ece31e46d788b4f74797b81a4d/artifacts
+end_time: 1731878778128
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 99a5e9ece31e46d788b4f74797b81a4d
+run_name: gifted-cat-241
+run_uuid: 99a5e9ece31e46d788b4f74797b81a4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731878777495
+status: 3
+tags: []
+user_id: Asus

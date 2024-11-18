@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/5ab3a11600954bbb9f414da9d0bc60f0/artifacts
+end_time: 1731938770754
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 5ab3a11600954bbb9f414da9d0bc60f0
+run_name: peaceful-pig-810
+run_uuid: 5ab3a11600954bbb9f414da9d0bc60f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938770300
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/504942185322132318/30329c260af74afd84d5da5ab15399bd/artifacts
+end_time: 1731938802427
+entry_point_name: ''
+experiment_id: '504942185322132318'
+lifecycle_stage: active
+run_id: 30329c260af74afd84d5da5ab15399bd
+run_name: redolent-asp-13
+run_uuid: 30329c260af74afd84d5da5ab15399bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938788241
+status: 3
+tags: []
+user_id: Asus

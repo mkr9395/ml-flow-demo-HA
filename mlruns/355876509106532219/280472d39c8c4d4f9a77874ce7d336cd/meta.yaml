@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/280472d39c8c4d4f9a77874ce7d336cd/artifacts
+end_time: 1731938788086
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 280472d39c8c4d4f9a77874ce7d336cd
+run_name: kindly-shrew-592
+run_uuid: 280472d39c8c4d4f9a77874ce7d336cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938787450
+status: 3
+tags: []
+user_id: Asus

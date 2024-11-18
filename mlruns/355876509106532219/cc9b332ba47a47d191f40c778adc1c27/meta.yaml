@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/cc9b332ba47a47d191f40c778adc1c27/artifacts
+end_time: 1731938765316
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: cc9b332ba47a47d191f40c778adc1c27
+run_name: silent-doe-660
+run_uuid: cc9b332ba47a47d191f40c778adc1c27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938764973
+status: 3
+tags: []
+user_id: Asus

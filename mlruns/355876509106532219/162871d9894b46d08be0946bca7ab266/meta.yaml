@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/162871d9894b46d08be0946bca7ab266/artifacts
+end_time: 1731938418610
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 162871d9894b46d08be0946bca7ab266
+run_name: bemused-wolf-409
+run_uuid: 162871d9894b46d08be0946bca7ab266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938417967
+status: 3
+tags: []
+user_id: Asus

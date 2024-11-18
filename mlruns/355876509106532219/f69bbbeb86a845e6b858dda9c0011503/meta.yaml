@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/f69bbbeb86a845e6b858dda9c0011503/artifacts
+end_time: 1731938769740
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: f69bbbeb86a845e6b858dda9c0011503
+run_name: omniscient-stoat-397
+run_uuid: f69bbbeb86a845e6b858dda9c0011503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938769234
+status: 3
+tags: []
+user_id: Asus

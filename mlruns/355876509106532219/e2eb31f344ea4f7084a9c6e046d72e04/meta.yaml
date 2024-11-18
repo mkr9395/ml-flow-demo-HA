@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/e2eb31f344ea4f7084a9c6e046d72e04/artifacts
+end_time: 1731938427503
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: e2eb31f344ea4f7084a9c6e046d72e04
+run_name: receptive-auk-603
+run_uuid: e2eb31f344ea4f7084a9c6e046d72e04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938427038
+status: 3
+tags: []
+user_id: Asus

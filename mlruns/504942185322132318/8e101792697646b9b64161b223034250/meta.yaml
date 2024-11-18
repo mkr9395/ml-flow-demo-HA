@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/504942185322132318/8e101792697646b9b64161b223034250/artifacts
+deleted_time: 1731878852532
 end_time: 1731877543939
 entry_point_name: ''
 experiment_id: '504942185322132318'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8e101792697646b9b64161b223034250
 run_name: vaunted-snipe-749
 run_uuid: 8e101792697646b9b64161b223034250

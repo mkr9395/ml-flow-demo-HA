@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/b6d04f9201494fbf9dd4e8ebf450a03f/artifacts
+end_time: 1731878785439
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: b6d04f9201494fbf9dd4e8ebf450a03f
+run_name: rogue-ant-841
+run_uuid: b6d04f9201494fbf9dd4e8ebf450a03f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731878784844
+status: 3
+tags: []
+user_id: Asus

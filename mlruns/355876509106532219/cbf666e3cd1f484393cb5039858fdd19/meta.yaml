@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/cbf666e3cd1f484393cb5039858fdd19/artifacts
+end_time: 1731938401736
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: cbf666e3cd1f484393cb5039858fdd19
+run_name: wistful-penguin-554
+run_uuid: cbf666e3cd1f484393cb5039858fdd19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938400851
+status: 3
+tags: []
+user_id: Asus

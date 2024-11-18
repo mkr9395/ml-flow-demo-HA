@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/ab7b7251b14046dba7e0e5ce622418cd/artifacts
+end_time: 1731938773458
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: ab7b7251b14046dba7e0e5ce622418cd
+run_name: honorable-elk-698
+run_uuid: ab7b7251b14046dba7e0e5ce622418cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938772815
+status: 3
+tags: []
+user_id: Asus

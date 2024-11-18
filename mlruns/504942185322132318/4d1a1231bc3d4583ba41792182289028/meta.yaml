@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/504942185322132318/4d1a1231bc3d4583ba41792182289028/artifacts
+deleted_time: 1731938787227
+end_time: 1731938434999
+entry_point_name: ''
+experiment_id: '504942185322132318'
+lifecycle_stage: deleted
+run_id: 4d1a1231bc3d4583ba41792182289028
+run_name: loud-quail-151
+run_uuid: 4d1a1231bc3d4583ba41792182289028
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938434284
+status: 4
+tags: []
+user_id: Asus

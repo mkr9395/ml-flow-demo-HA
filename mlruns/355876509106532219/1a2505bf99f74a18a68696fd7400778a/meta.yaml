@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/1a2505bf99f74a18a68696fd7400778a/artifacts
+end_time: 1731938429294
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 1a2505bf99f74a18a68696fd7400778a
+run_name: sincere-hen-224
+run_uuid: 1a2505bf99f74a18a68696fd7400778a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938428499
+status: 3
+tags: []
+user_id: Asus

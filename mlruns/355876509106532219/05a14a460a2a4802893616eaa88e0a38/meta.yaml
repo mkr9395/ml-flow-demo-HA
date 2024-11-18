@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/05a14a460a2a4802893616eaa88e0a38/artifacts
+end_time: 1731938431852
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 05a14a460a2a4802893616eaa88e0a38
+run_name: stylish-kit-608
+run_uuid: 05a14a460a2a4802893616eaa88e0a38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938431205
+status: 3
+tags: []
+user_id: Asus

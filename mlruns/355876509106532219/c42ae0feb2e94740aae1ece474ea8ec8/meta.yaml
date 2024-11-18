@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/c42ae0feb2e94740aae1ece474ea8ec8/artifacts
+end_time: 1731878784802
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: c42ae0feb2e94740aae1ece474ea8ec8
+run_name: illustrious-ray-324
+run_uuid: c42ae0feb2e94740aae1ece474ea8ec8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731878784240
+status: 3
+tags: []
+user_id: Asus

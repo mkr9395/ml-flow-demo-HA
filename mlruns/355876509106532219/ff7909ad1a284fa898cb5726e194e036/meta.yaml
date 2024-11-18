@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/ff7909ad1a284fa898cb5726e194e036/artifacts
+end_time: 1731938420126
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: ff7909ad1a284fa898cb5726e194e036
+run_name: righteous-wasp-93
+run_uuid: ff7909ad1a284fa898cb5726e194e036
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938419405
+status: 3
+tags: []
+user_id: Asus

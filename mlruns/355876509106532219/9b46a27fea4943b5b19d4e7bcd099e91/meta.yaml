@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/9b46a27fea4943b5b19d4e7bcd099e91/artifacts
+end_time: 1731938781172
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 9b46a27fea4943b5b19d4e7bcd099e91
+run_name: sneaky-bird-610
+run_uuid: 9b46a27fea4943b5b19d4e7bcd099e91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938780529
+status: 3
+tags: []
+user_id: Asus

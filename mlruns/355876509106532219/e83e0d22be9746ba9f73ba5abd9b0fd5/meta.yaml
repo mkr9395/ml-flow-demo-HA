@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/e83e0d22be9746ba9f73ba5abd9b0fd5/artifacts
+end_time: 1731938766879
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: e83e0d22be9746ba9f73ba5abd9b0fd5
+run_name: painted-dove-426
+run_uuid: e83e0d22be9746ba9f73ba5abd9b0fd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938766485
+status: 3
+tags: []
+user_id: Asus

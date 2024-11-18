@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/d5aeb3f188c34e729b5129cae9aac2fb/artifacts
+end_time: 1731938761049
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: d5aeb3f188c34e729b5129cae9aac2fb
+run_name: magnificent-wolf-470
+run_uuid: d5aeb3f188c34e729b5129cae9aac2fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938760526
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1731938795577
+current_stage: None
+description: ''
+last_updated_timestamp: 1731938795577
+name: Best_Hyperopt_Model
+run_id: 30329c260af74afd84d5da5ab15399bd
+run_link: ''
+source: mlflow-artifacts:/504942185322132318/30329c260af74afd84d5da5ab15399bd/artifacts/model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/504942185322132318/30329c260af74afd84d5da5ab15399bd/artifacts/model
+user_id: null
+version: 1

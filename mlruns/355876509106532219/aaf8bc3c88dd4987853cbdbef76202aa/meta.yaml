@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/aaf8bc3c88dd4987853cbdbef76202aa/artifacts
+end_time: 1731938764937
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: aaf8bc3c88dd4987853cbdbef76202aa
+run_name: unequaled-ram-181
+run_uuid: aaf8bc3c88dd4987853cbdbef76202aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938764402
+status: 3
+tags: []
+user_id: Asus

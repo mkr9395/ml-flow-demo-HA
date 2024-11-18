@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/cd25449903f04bb8a17fb9e06bca8444/artifacts
+end_time: 1731938413245
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: cd25449903f04bb8a17fb9e06bca8444
+run_name: enchanting-horse-204
+run_uuid: cd25449903f04bb8a17fb9e06bca8444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938412808
+status: 3
+tags: []
+user_id: Asus

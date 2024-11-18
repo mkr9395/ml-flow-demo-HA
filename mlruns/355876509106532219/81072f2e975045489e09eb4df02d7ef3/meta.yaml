@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/355876509106532219/81072f2e975045489e09eb4df02d7ef3/artifacts
+end_time: 1731938420486
+entry_point_name: ''
+experiment_id: '355876509106532219'
+lifecycle_stage: active
+run_id: 81072f2e975045489e09eb4df02d7ef3
+run_name: polite-chimp-470
+run_uuid: 81072f2e975045489e09eb4df02d7ef3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731938420196
+status: 3
+tags: []
+user_id: Asus
